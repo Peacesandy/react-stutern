@@ -1,6 +1,6 @@
 
 function Main () {
-    const country = 'Nigeria'
+    const coun9try = 'Nigeria'
       return (
         <main>
      <section>

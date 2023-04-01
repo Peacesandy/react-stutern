@@ -68,3 +68,32 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+List five significant features of React
+1. JSX
+2. Virtual DOM
+3. Performance
+4. One way data binding
+5. Extensions
+
+
+
+List five major advantages of React
+1. Reusable component
+2. React is easy to learn
+3. Improved performance
+4. Development of both web and mobile apps
+5. Dedicated tools for easy debugging.
+
+What is the name of the Software Engineer that created React? Also, which company owns React?
+Jordan Walke
+
+What are the notable differences between HTML & JSX? Give at least 3 of them
+JSX makes it easier to write or add HTML in React.
+JSX can easily convert HTML tags to react elements.
+It is type-safe, and most of the errors can be found at compilation time.
+It makes it easier to create templates.
+
+
+Why can’t browsers read JSX?
+Jsx needs compilers
