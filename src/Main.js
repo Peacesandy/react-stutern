@@ -1,5 +1,10 @@
-<main>
+
+function Main () {
+    const country = 'Nigeria'
+      return (
+        <main>
      <section>
+       <h1>Hello From {country}!</h1>
        <h2>About Us</h2>
        <p>
          We are a small team of web developers based in the United States. We
@@ -17,3 +22,8 @@
        </ul>
      </section>
    </main>
+
+      )
+}
+
+export default Main
